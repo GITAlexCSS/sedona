@@ -1,0 +1,11 @@
+body {
+
+}
+
+.image-bg { 
+    width: 1160px;
+    height: 460px;
+    margin: 0 auto;
+    background: url(/images/index-background.jpg);
+    background-repeat: no-repeat;
+}
